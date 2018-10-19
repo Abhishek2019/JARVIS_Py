@@ -18,3 +18,7 @@ def create_table():
 
 if __name__ == "__main__":
     create_table()
+    row_counter = 0
+    paired_rows = 0
+
+
